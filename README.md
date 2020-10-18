@@ -3,6 +3,7 @@ Its a basic data analysis of the the Amazon Inc stocks data using python librari
 The dataset is available on kaggle, the file used in this project is csv file containing the data of Amazon Stock prices from 1997 to 2020.
 
 ## About the Data
+The data has 7 columns of data from 1997 to July 2020
   > - Date - in format: yy-mm-dd
   > - Open - the price of the stock at market open
   > - High - Highest price reached in the day
